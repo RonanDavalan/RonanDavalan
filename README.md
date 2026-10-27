@@ -24,11 +24,13 @@ I build reliable, lasting solutions for small businesses and independents: autom
 
 ### How the work is done
 
-I design and direct; the code is written by Claude Code (Anthropic) under my supervision. Most of the repositories carry a Credits section that says who did what.
+I design and direct; language models write the code under my supervision: Claude Code (Anthropic) on most projects, Google Gemini, Grok and Claude on WindowsOrchestrator. The credits of each project say who did what; for WindowsOrchestrator, they are in section 8.4 of its [developer guide](https://github.com/RonanDavalan/WindowsOrchestrator/blob/main/docs/en-US/DEVELOPER_GUIDE.md).
 
 ### Elsewhere
 
-- Website: [www.davalan.fr](https://www.davalan.fr)
+- Website, in French: [www.davalan.fr](https://www.davalan.fr)
 - LinkedIn: [Ronan Davalan](https://www.linkedin.com/in/ronan-davalan)
 
-En français : parcours, réalisations et CV sur [davalan.fr](https://www.davalan.fr).
+The project websites are available in English, French, German and Spanish.
+
+En français : parcours, réalisations et CV sur [davalan.fr](https://www.davalan.fr), qui est en français ; les sites des projets existent aussi en français.
