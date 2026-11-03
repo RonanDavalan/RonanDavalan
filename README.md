@@ -18,6 +18,10 @@ I build reliable, lasting solutions for small businesses and independents: autom
 - [Diwall](https://github.com/RonanDavalan/diwall): lets a model see a web interface and replay browser scenarios.
 - [Dinoer](https://github.com/RonanDavalan/dinoer): web research and structured extraction for language-model agents, with sourced reports.
 
+**Server security**
+
+- [Argus](https://github.com/RonanDavalan/Argus): counts the attacks on Debian and Ubuntu servers (SSH, Fail2Ban jails, CrowdSec scenarios) and keeps the history as charts, with no permanent service and no database.
+
 **Windows**
 
 - [WindowsOrchestrator](https://github.com/RonanDavalan/WindowsOrchestrator): PowerShell scripts for a reproducible configuration of dedicated Windows workstations.
