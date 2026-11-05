@@ -15,6 +15,7 @@ I build reliable, lasting solutions for small businesses and independents: autom
 **Tools for language models**
 
 - [mcp-server-diwall-browser](https://github.com/RonanDavalan/mcp-server-diwall-browser): an MCP server that gives a model the screenshot, the accessibility tree and the gestures of the browser where the operator is signed in, under their confirmation.
+- [LibreModular-MCP](https://github.com/RonanDavalan/LibreModular-MCP): a universal MCP server in Rust: a model drives GIMP, Krita, Blender, Inkscape and LibreOffice by running one complete script per call, through a Hub that exposes two tools.
 - [Diwall](https://github.com/RonanDavalan/diwall): lets a model see a web interface and replay browser scenarios.
 - [Dinoer](https://github.com/RonanDavalan/dinoer): web research and structured extraction for language-model agents, with sourced reports.
 
